@@ -3,10 +3,10 @@
 Para executar, certifique-se de que as portas **3000**, **8080**, **5672**, **15672** e **3306** não estejam sendo utilizadas por nenhum outro processo.
 
 ## Comandos para execução:
-git clone https://github.com/joaopereira95/eventos-teste.git
-cd eventos-teste/
-git checkout docker
-docker-compose up
+git clone https://github.com/joaopereira95/eventos-teste.git  
+cd eventos-teste/  
+git checkout docker  
+docker-compose up  
 
 ### URL de acesso a página web: 
 http://localhost:3000/
