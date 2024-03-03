@@ -12,6 +12,6 @@ docker-compose up
 http://localhost:3000/
 
 ## Descrição dos componentes:
-**event-manager-ui:** interface para inclusão e listagem dos eventos cadastrados.
-**event-manager-api:** serviço para inclusão e listagem dos eventos cadastrados.
-**event-manager-scheduling:** componente para recebimento e processamento das mensagens recebidas pelo RabbitMQ e rotina automática para atualização dos status dos eventos cadastrados.
+**event-manager-ui:** interface para inclusão e listagem dos eventos cadastrados.  
+**event-manager-api:** serviço para inclusão e listagem dos eventos cadastrados.  
+**event-manager-scheduling:** componente para recebimento e processamento das mensagens recebidas pelo RabbitMQ e rotina automática para atualização dos status dos eventos cadastrados.  
